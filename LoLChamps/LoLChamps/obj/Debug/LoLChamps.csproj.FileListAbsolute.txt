@@ -1,0 +1,123 @@
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\App.xbf
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\MainPage.xbf
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\LoLChamps.xr.xml
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\LoLChamps.exe
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\LoLChamps.pdb
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\resources.pri
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\AppxManifest.xml
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\LoLChamps.build.appxrecipe
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\Newtonsoft.Json.dll
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\Newtonsoft.Json.xml
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\LoLChamps.csprojResolveAssemblyReference.cache
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\App.g.i.cs
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\App.g.cs
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\MainPage.g.i.cs
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\MainPage.g.cs
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\XamlTypeInfo.g.cs
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\App.xaml
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\App.xbf
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\XamlSaveStateFile.xml
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\MainPage.xaml
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\MainPage.xbf
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\LoLChamps.exe
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\LoLChamps.pdb
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\LoLChamps.csproj.GenerateResource.Cache
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\priconfig.xml
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\priconfig.xml.intermediate
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\layout.resfiles
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\layout.resfiles.intermediate
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\resources.resfiles
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\resources.resfiles.intermediate
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\pri.resfiles
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\pri.resfiles.intermediate
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\qualifiers.txt
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\qualifiers.txt.intermediate
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\ProjectArchitectures.txt
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\bin\Debug\DetailsPage.xbf
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\DetailsPage.g.i.cs
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\DetailsPage.g.cs
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\DetailsPage.xaml
+c:\users\valeriu\documents\visual studio 2013\Projects\LoLChamps\LoLChamps\obj\Debug\DetailsPage.xbf
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\App.xbf
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\DetailsPage.xbf
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\MainPage.xbf
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\LoLChamps.xr.xml
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\LoLChamps.exe
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\LoLChamps.pdb
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\resources.pri
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\AppxManifest.xml
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\LoLChamps.build.appxrecipe
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\LoLChamps.csprojResolveAssemblyReference.cache
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\App.g.i.cs
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\App.g.cs
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\DetailsPage.g.i.cs
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\DetailsPage.g.cs
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MainPage.g.i.cs
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MainPage.g.cs
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\App.xaml
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\DetailsPage.xaml
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MainPage.xaml
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\App.xbf
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\DetailsPage.xbf
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MainPage.xbf
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\XamlSaveStateFile.xml
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\LoLChamps.exe
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\LoLChamps.pdb
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\LoLChamps.csproj.GenerateResource.Cache
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\priconfig.xml
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\priconfig.xml.intermediate
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\layout.resfiles
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\layout.resfiles.intermediate
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\resources.resfiles
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\resources.resfiles.intermediate
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\pri.resfiles
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\pri.resfiles.intermediate
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\qualifiers.txt
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\qualifiers.txt.intermediate
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kereg\Downloads\LoLChamps\LoLChamps\LoLChamps\obj\Debug\ProjectArchitectures.txt
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\App.xbf
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\DetailsPage.xbf
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\MainPage.xbf
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\LoLChamps.xr.xml
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\LoLChamps.exe
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\LoLChamps.pdb
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\resources.pri
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\AppxManifest.xml
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\LoLChamps.build.appxrecipe
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\LoLChamps.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\App.g.i.cs
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\App.g.cs
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\DetailsPage.g.cs
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MainPage.g.i.cs
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MainPage.g.cs
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\App.xaml
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\DetailsPage.xaml
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MainPage.xaml
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\App.xbf
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\DetailsPage.xbf
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MainPage.xbf
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\LoLChamps.exe
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\LoLChamps.pdb
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\LoLChamps.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\priconfig.xml
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\priconfig.xml.intermediate
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\layout.resfiles
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\layout.resfiles.intermediate
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\resources.resfiles
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\resources.resfiles.intermediate
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\pri.resfiles
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\pri.resfiles.intermediate
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\qualifiers.txt
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sergey\Desktop\LoLChamps\LoLChamps\LoLChamps\obj\Debug\ProjectArchitectures.txt
